@@ -1,3 +1,19 @@
+ScreenShot:
+
+screenshot that to create a ReactJS named 101362082_comp3123_labtest2 and commit & push to the github (https://github.com/Youyouccc/101362082_comp3123_labtest2-)
+![Command pic](screenshot/command1.png)
+![Command pic](screenshot/command2.png)
+![Command pic](screenshot/command3.png)
+
+screenshot of the test on postman
+![postman pic](screenshot/postman.png)
+
+screenshot of my weather app layout showing
+![layout pic](screenshot/layout1.png)
+![layout pic](screenshot/layout2.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
